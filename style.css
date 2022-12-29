@@ -40,11 +40,6 @@ span {
 }
 
 
-picture {
-    border-radius: 0 10px 10px 0;
-    background:hsl(277, 64%, 61%);
-}
-
 img {
     border-radius: 10px 10px 0 0;
     width: 100%;
